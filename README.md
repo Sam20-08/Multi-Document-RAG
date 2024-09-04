@@ -1,3 +1,5 @@
+# Multi Document - Question Answering - RAG with Groq & Langchain using LLAMA 3.1. 70B 
+
 langchain-chroma  is the vector store used for this project
 
 langchain-text-splitters is used to split text into smaller chunks
